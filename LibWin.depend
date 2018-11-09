@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1430781967 source:c:\users\osorio.bruno\desktop\bruno\projetos\libwin\main.cpp
+	<windows.h>
+	<dirent.h>
+	<string>
+	"winregion.h"
+	"lua.h"
+
+1391205844 c:\users\osorio.bruno\desktop\bruno\projetos\libwin\winregion.h
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1384178956 c:\users\osorio.bruno\desktop\bruno\projetos\libwin\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1396302668 c:\users\osorio.bruno\desktop\bruno\projetos\libwin\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+
+1365796126 c:\users\osorio.bruno\desktop\bruno\projetos\libwin\lualib.h
+	"lua.h"
+
+1365796126 c:\users\osorio.bruno\desktop\bruno\projetos\libwin\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1391629938 source:c:\users\osorio.bruno\desktop\bruno\projetos\libwin\winregion.cpp
+	<windows.h>
+	<string>
+	<stdio.h>
+	"winregion.h"
+
+1391622738 source:c:\users\bruno\desktop\bruno\projetos\libwin\winregion.cpp
+	<windows.h>
+	<string>
+	<stdio.h>
+	"winregion.h"
+
+1391198644 c:\users\bruno\desktop\bruno\projetos\libwin\winregion.h
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
+1447435122 c:\users\bruno\desktop\bruno\projetos\libwin\lua.h
+	<stdarg.h>
+	<stddef.h>
+	"luaconf.h"
+
+1445451460 c:\users\bruno\desktop\bruno\projetos\libwin\luaconf.h
+	<limits.h>
+	<stddef.h>
+	<stdint.h>
+	<assert.h>
+
+1391707953 c:\users\bruno\desktop\bruno\projetos\libwin\lualib.h
+	"lua.h"
+
+1448278183 c:\users\bruno\desktop\bruno\projetos\libwin\lauxlib.h
+	<stddef.h>
+	<stdio.h>
+	"lua.h"
+
+1460963663 source:c:\users\bruno\desktop\bruno\projetos\libwin\main.cpp
+	<iostream>
+	<windows.h>
+	<dirent.h>
+	<string>
+	"winregion.h"
+	"lua.h"
+
